@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/vitaliypolyakov/Dev/clang/c_how_to_program/ch02/ex02_32'
-relocations:     []
-...

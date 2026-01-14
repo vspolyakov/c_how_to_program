@@ -36,6 +36,7 @@
 int main()
 {
     double weight, height;
+    printf("\n\n");
     printf("Body Mass Index Calculator (BMI).\n");
 
     printf("Input weight in kilograms: ");

@@ -9,5 +9,10 @@
 // function main begins program execution
 int main()
 {
+    int userInputSeconds;
+    int seconds, minutes, hours;
+
+    printf("Enter the total time elapsed (in seconds): ");
+    scanf("%d", &userInputSeconds);
 
 } // end function main

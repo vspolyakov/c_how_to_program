@@ -3,3 +3,5 @@
 *.dSYM
 ch02/
 *.out
+*.o
+*.obj

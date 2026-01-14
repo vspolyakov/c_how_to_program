@@ -15,4 +15,9 @@ int main()
     printf("Enter the total time elapsed (in seconds): ");
     scanf("%d", &userInputSeconds);
 
+    hours = userInputSeconds / 3600;
+    minutes = userInputSeconds % 3600 / 60;
+    seconds = userInputSeconds % 3600 % 60;
+
+    printf("Convert (hh:mm:ss): %d:%d:%d\n", hours, minutes, seconds);
 } // end function main

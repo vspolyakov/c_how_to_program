@@ -5,3 +5,4 @@ ch02/
 *.out
 *.o
 *.obj
+.DS_Store
